@@ -1,5 +1,4 @@
-# Monorepo for Create React App
+# react-craco-starter
+Monorepo for react project
 
-This is an example repo for a monorepo setup for create-react-app
-
-If you want to watch the youtube setup, you can watch it here: https://youtu.be/2ljXcZrCLRk
+Lerna, CRA, CRACO, Storybook, Dart Sass, Jest
