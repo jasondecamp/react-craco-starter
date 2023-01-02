@@ -1,6 +1,6 @@
 {
-  "short_name": "Avatar",
-  "name": "Avatar Creator",
+  "short_name": "react-craco-starter",
+  "name": "React Craco Starter",
   "icons": [
     {
       "src": "favicon.ico",
